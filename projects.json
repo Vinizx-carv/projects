@@ -1,5 +1,26 @@
 [
   {
+  "slug": "api-crud-usuarios",
+  "title": "API CRUD de Usuários - Flask + MySQL",
+  "description": "API REST simples para gerenciamento de usuários utilizando Flask e MySQL. Projeto com operações CRUD completas (Create, Read, Update e Delete).",
+  "longDescription": "Funcionalidades:\n- Criar usuários\n- Listar usuários\n- Buscar usuário por ID\n- Atualizar usuários\n- Remover usuários\n- Integração com banco MySQL\n\nTecnologias:\nPython, Flask, MySQL, mysql-connector-python, Flask-CORS\n\nEstrutura do Projeto:\nprojeto/\n ├── app.py\n ├── database.py\n ├── README.md\n └── requirements.txt\n\nPré-requisitos: Python 3, MySQL instalado\nBanco de Dados: CREATE DATABASE loja; USE loja; CREATE TABLE users (id INT AUTO_INCREMENT PRIMARY KEY, name VARCHAR(100), age INT);",
+  "tags": ["Python", "Flask", "MySQL"],
+  "featured": true,
+  "image": "/projects/api-crud-usuarios.jpg",
+  "features": [
+    "Criar usuários",
+    "Listar usuários",
+    "Buscar usuário por ID",
+    "Atualizar usuários",
+    "Remover usuários",
+    "Integração com banco MySQL"
+  ],
+  "learnings": "Como criar uma API RESTful completa em Flask, integrar com MySQL, gerenciar operações CRUD, usar variáveis de ambiente e organizar projeto Python.",
+  "github": "https://github.com/Vinizx-carv/projeto_crud_python",
+  "demo": "http://localhost:5000"
+}
+,
+  {
     "slug": "sistema-gestao-academica",
     "title": "Sistema de Gestao Academica",
     "description": "Aplicacao web para gerenciamento de notas.",
