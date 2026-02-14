@@ -14,5 +14,37 @@
     "tags": ["Node.js", "Express", "MongoDB"],
     "featured": false,
     "image": "/projects/ecommerce-api.jpg"
+  },
+  {
+    "slug": "portfolio-pessoal",
+    "title": "Portfolio Pessoal",
+    "description": "Site pessoal para exibir projetos e habilidades.",
+    "tags": ["React", "TypeScript", "CSS"],
+    "featured": true,
+    "image": "/projects/portfolio-pessoal.jpg"
+  },
+  {
+    "slug": "app-clima",
+    "title": "App Clima",
+    "description": "Aplicativo que mostra a previsão do tempo em tempo real.",
+    "tags": ["React Native", "API Weather", "Expo"],
+    "featured": false,
+    "image": "/projects/app-clima.jpg"
+  },
+  {
+    "slug": "blog-tech",
+    "title": "Blog Tech",
+    "description": "Blog sobre tecnologia com sistema de postagem e comentários.",
+    "tags": ["Next.js", "GraphQL", "SQLite"],
+    "featured": false,
+    "image": "/projects/blog-tech.jpg"
+  },
+  {
+    "slug": "chat-realtime",
+    "title": "Chat Realtime",
+    "description": "Aplicativo de chat em tempo real com salas de conversa.",
+    "tags": ["Node.js", "Socket.io", "React"],
+    "featured": true,
+    "image": "/projects/chat-realtime.jpg"
   }
 ]
