@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "sistema-gestao-academica",
+    "title": "Sistema de Gestao Academica",
+    "description": "Aplicacao web para gerenciamento de notas.",
+    "tags": ["React", "Node.js", "PostgreSQL"],
+    "featured": true,
+    "image": "/projects/gestao-academica.jpg"
+  },
+  {
+    "slug": "ecommerce-api",
+    "title": "E-commerce API",
+    "description": "API RESTful para sistema de e-commerce.",
+    "tags": ["Node.js", "Express", "MongoDB"],
+    "featured": false,
+    "image": "/projects/ecommerce-api.jpg"
+  }
+]
